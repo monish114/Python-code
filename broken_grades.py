@@ -17,7 +17,7 @@
 # Exams: 50, 51, 0
 # Average: 33
 # Grade: F
-# Student iis failing.
+# Student iis failing
 
 
 exam_one = int(input("Input exam grade one: "))
